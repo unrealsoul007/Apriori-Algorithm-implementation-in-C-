@@ -1,0 +1,18 @@
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\MainWindow.baml
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\MainWindow.g.cs
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\App.g.cs
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites_MarkupCompile.cache
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.g.resources
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender_System_for_e_commerce_sites.Properties.Resources.resources
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.csproj.GenerateResource.Cache
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\bin\Debug\Recommender System for e-commerce sites.exe
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\bin\Debug\Recommender System for e-commerce sites.pdb
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.exe
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.pdb
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\SuggestionsWindow.baml
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\SuggestionsWindow.g.cs
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\bin\Debug\Recommender System for e-commerce sites.exe.manifest
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\bin\Debug\Recommender System for e-commerce sites.application
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.exe.manifest
+D:\Programming\C#\Recommender System for e-commerce sites\Recommender System for e-commerce sites\obj\Debug\Recommender System for e-commerce sites.application

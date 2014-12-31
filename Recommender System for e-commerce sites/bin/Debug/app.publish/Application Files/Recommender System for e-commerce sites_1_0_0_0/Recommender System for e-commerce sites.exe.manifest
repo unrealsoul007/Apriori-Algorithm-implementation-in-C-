@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Recommender System for e-commerce sites.exe" version="1.0.0.0" publicKeyToken="1f6528330620137e" language="en" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Recommender System for e-commerce sites" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Recommender System for e-commerce sites.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Recommender System for e-commerce sites.exe" size="27648">
+      <assemblyIdentity name="Recommender System for e-commerce sites" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>0oJSDiEo3sP8XAxCZRMB7njc2sg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=DEEPAK-PC\Deepak" issuerKeyHash="67f492a82058b409b19297818a3c363ea57d7cf7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ggTWNj/zmLoC0A0bRT8NjNvfB9Q=</DigestValue></Reference></SignedInfo><SignatureValue>J8EjQc7baks88m1lLw5ei0KyUXHtwO5OCrAHQrC7ayV7pTTl0g60GfyO3TImE3NHf9Vce6iSVW1/BXc77LGCFAu8Lw9BZURT/yHdpIxBtjNju7L8uSYS5Yv9d9d+5Wt/06Haf/UA0j5WfzlhBUQFvg3j/wd9bJhYuLb7zev9A4A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oApifmrbV0Q1AId3rG9sYaqNW4S+rofc/KQ1lFoN4KcZiVGZyVgr/Wa8R9sqkzD6Gcy18kCdoby8Mn8s23ZU9I1f4JtfWOnG6RkeIO4TgFVfTK6MZw7ZXP8oB18Uyg74cdf1hSx5JjZ23aUtXPimN5NBbCk+CRIVaKyTHDlELjs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d407dfdb8c0d3f451b0dd002ba98f33f36d60482" Description="" Url=""><as:assemblyIdentity name="Recommender System for e-commerce sites.exe" version="1.0.0.0" publicKeyToken="1f6528330620137e" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DEEPAK-PC\Deepak</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>WYXB9G98h6Yzw8MmDCQODebVxtc=</DigestValue></Reference></SignedInfo><SignatureValue>H1JHtk6ijKBDiyLcT0Ec/1tyOX/6fVZIt6hxBTMModFPBMBWdAaiYb/seU+cFgZGzkNBFm6zjPMYwc9Aysz3dR90qRkajbvjEZRgkbQzFKx0Xs7gnPqtF4A4JjG6xFtQv3pJZvPuQ2e6vRqCn4qKDTb0CBc4iJh8p7XLw2SyO4o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oApifmrbV0Q1AId3rG9sYaqNW4S+rofc/KQ1lFoN4KcZiVGZyVgr/Wa8R9sqkzD6Gcy18kCdoby8Mn8s23ZU9I1f4JtfWOnG6RkeIO4TgFVfTK6MZw7ZXP8oB18Uyg74cdf1hSx5JjZ23aUtXPimN5NBbCk+CRIVaKyTHDlELjs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQSoVGxy8DlpRAGO4aZNscyDANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAARABFAEUAUABBAEsALQBQAEMAXABEAGUAZQBwAGEAazAeFw0xNDExMTgwNjU1NTdaFw0xNTExMTgxMjU1NTdaMCsxKTAnBgNVBAMeIABEAEUARQBQAEEASwAtAFAAQwBcAEQAZQBlAHAAYQBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgCmJ+attXRDUAh3esb2xhqo1bhL6uh9z8pDWUWg3gpxmJUZnJWCv9ZrxH2yqTMPoZzLXyQJ2hvLwyfyzbdlT0jV/gm19Y6cbpGR4g7hOAVV9MroxnDtlc/ygHXxTKDvhx1/WFLHkmNnbdpS1c+KY3k0FsKT4JEhVorJMcOUQuOwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAHD8JMA4ycokmHfE1UrySdE2fOt4vbGopMaMWTl2AfNsJroMWn/X6KGCjLYcEpIYb5RTo2O+r2zpZC+TrwUEMGY/AU1rFqAl1EYeqHAO8hQlhg1DH3tAwHMt2vNgNMrcnbpjmh6q55/xVaN6NFVgBOjRQyxviCy7/IeTF8I9togy</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
